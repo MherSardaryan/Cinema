@@ -1,0 +1,17 @@
+.star-rating {
+    display: inline-block;
+     margin-left: 25px;
+  
+  }
+  
+  .star {
+    font-size: 3.5rem;
+    color: #ccc;
+    cursor: pointer;
+   
+  }
+  
+  .hovered,
+  .selected {
+    color: gold;
+}
